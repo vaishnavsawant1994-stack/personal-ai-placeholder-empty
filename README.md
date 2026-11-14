@@ -4,9 +4,9 @@
 
 This repository is a name placeholder. It does not contain the Personal AI application source and must not be used as the current development or deployment repository.
 
-## Related repository in this account
+## Historical source reference
 
-`personal-ai-snapshot-20260928` contains a dated Personal AI source snapshot. Its name and history identify it as a recovery/continuity snapshot, not automatically as the canonical replacement for the original Personal AI repository.
+An older README referenced `personal-ai-snapshot-20260928` as a recovery snapshot. **That repository was not present in the 39 owner repositories accessible during the 14 November 2026 audit.** It may have moved, been removed, or resided under another account; its current existence, contents and ownership are unverified. Do not use that reference as evidence that a recoverable source snapshot is available.
 
 ## Required owner decision
 
