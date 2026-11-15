@@ -25,3 +25,7 @@ Before continuing development in this account:
 - No verified relationship to the original repository history
 
 Do not delete this repository or overwrite it with an unverified source bundle until the canonical-source decision is complete.
+
+## Detailed project documentation
+
+The [**Project Handbook**](docs/PROJECT_HANDBOOK.md) explains this repository individually: product objectives, user journeys, code and technology, current implementation scope, risks, local development, quality gates, and the next engineering milestones. Statements about planned features do not imply release acceptance.
